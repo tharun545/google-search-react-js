@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.arrow-icon {
+  width: 25px;
+  height: 25px;
+  margin-top: 14px;
+  margin-right: 15px;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 10px;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}
